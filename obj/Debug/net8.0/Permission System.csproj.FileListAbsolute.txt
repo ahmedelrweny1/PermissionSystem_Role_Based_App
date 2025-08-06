@@ -1,0 +1,14 @@
+C:\Users\a7med_elrweny\source\repos\Permission System\bin\Debug\net8.0\Permission System.exe
+C:\Users\a7med_elrweny\source\repos\Permission System\bin\Debug\net8.0\Permission System.deps.json
+C:\Users\a7med_elrweny\source\repos\Permission System\bin\Debug\net8.0\Permission System.runtimeconfig.json
+C:\Users\a7med_elrweny\source\repos\Permission System\bin\Debug\net8.0\Permission System.dll
+C:\Users\a7med_elrweny\source\repos\Permission System\bin\Debug\net8.0\Permission System.pdb
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.AssemblyInfoInputs.cache
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.AssemblyInfo.cs
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.csproj.CoreCompileInputs.cache
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.dll
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\refint\Permission System.dll
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.pdb
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\Permission System.genruntimeconfig.cache
+C:\Users\a7med_elrweny\source\repos\Permission System\obj\Debug\net8.0\ref\Permission System.dll
